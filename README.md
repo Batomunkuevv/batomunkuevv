@@ -1,10 +1,5 @@
 <h1 align="center">Привет, я Кирилл 👋</h1>
 
-<p align="center">
-  <a href="https://freelance.ru/batomunkuevv"><img src="https://img.shields.io/badge/Freelance.ru-профиль-2ea44f?style=flat-square" alt="Freelance.ru"></a>
-  <img src="https://komarev.com/ghpvc/?username=Batomunkuevv&style=flat-square&color=blue&label=Просмотры" alt="views">
-</p>
-
 ---
 
 ### Стек
@@ -57,10 +52,3 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Статистика
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Batomunkuevv&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Batomunkuevv&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="langs">
-</p>
